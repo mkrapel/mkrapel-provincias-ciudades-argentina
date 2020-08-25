@@ -14,7 +14,7 @@
  * Version: 3.0
  * Author: Marketing Rapel
  * Author URI: https://marketingrapel.cl
- * License: GPLv2
+ * License: GPLv3
  * Requires at least: 5.0
  * Tested up to: 5.4
  * Requires PHP: 5.6

@@ -6,8 +6,7 @@ Requires PHP: 5.6 or greater
 Tested up to: 5.4
 Stable tag: 5.4
 MySQL: 5.6 or greater
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3
 
 == Description ==
 
