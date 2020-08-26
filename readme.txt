@@ -1,4 +1,4 @@
-=== Provincias y Ciudades de Argentina ===
+=== Provincias y Ciudades de Argentina para WooCommerce ===
 Contributors: Marketing Rapel
 Tags: woocommerce, argentina, comunas, wordpress, checkout, ar, currency, tienda, envios, despachos, php, wc, mkrapel, marketing rapel, marketing, rapel, regiones, states, argentina states, city, cities
 Requires at least: 5.0

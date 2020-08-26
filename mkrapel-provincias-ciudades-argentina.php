@@ -8,17 +8,18 @@
  * that starts the plugin.
  *
  *
- * Plugin Name: Provincias y Ciudades de Argentina
+ * Plugin Name: Provincias y Ciudades de Argentina para WooCommerce
  * Plugin URI: https://marketingrapel.cl/
  * Description: Plugin con las Provincias y Ciudades de Argentina actualizado al 2020, permitiendo usar las Ciudades para establecer las Zonas de Despacho en la sección de Envíos de WooCommerce. Retira campos de Código Postal y Línea 2 de la Dirección en el CheckOut, junto con nueva distribución visible.
  * Version: 3.0
+ * Requires at least: 5.0
+ * Requires PHP: 5.6
  * Author: Marketing Rapel
  * Author URI: https://marketingrapel.cl
  * License: GPLv3
- * Requires at least: 5.0
- * Tested up to: 5.4
- * Requires PHP: 5.6
  * Text Domain: mkrapel-provincias-ciudades-argentina
+ * Domain Path: /languages
+ * Tested up to: 5.4
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
