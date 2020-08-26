@@ -60,7 +60,12 @@ Para el desarrollo de este plugin fue utilizada la información disponible en lo
 
 == Changelog ==
 
-= v3.0 - 20.08.2020 =
+= v3.0 - 24.08.2020 =
 * Setting: Ajuste General en el código del plugin
-* Fixed: Compatibilidad con WooCommerce
-* Fixed: Zonas de Despacho en CheckOut
+* Setting: Incorporación de las Provincias/Regiones/Departamentos
+* Setting: Incorporación de los Distritos/Ciudades/Municipios
+* Setting: Configuración para WooCommerce
+* Setting: Compatibilidad con WooCommerce
+* Tested: Pruebas en WordPress
+* Tested: Pruebas en WooCommerce
+* Fixed: Zonas de Despacho en CheckOut y Carro de Compra
